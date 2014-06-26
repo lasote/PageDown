@@ -28,5 +28,7 @@
     "local/",
     "resources/",
     "node-pagedown.js"
-  ]
+  ],
+  "main": "./Markdown.Converter.js"
+
 }
